@@ -76,9 +76,9 @@
 
 | 平台 | 定位 | 链接 |
 |---|---|---|
-| 小红书 | 主阵地 · 引流 | [小红书个人主页](https://www.xiaohongshu.com/user/profile/68bda8a7000000001901c485?xsec_token=YB8w50KZOiouJg6KAA4GZIWh3uiMDhHqzbB0qEkjb2034%3D&xsec_source=app_share&shareRedId=OD5EREQ9RUA2NzUyOTgwNjc8OThHOT4-&apptime=1790510210&share_id=08faa633024844a1949b0dc4e5e5ede5&share_channel=copy_link&appuid=68bda8a7000000001901c485&xhsshare=CopyLink) |
+| 小红书 | 主阵地 · 引流 | [小红书个人主页](https://xhslink.cn/o/7mTOYoSTJb) |
 | B站 | 专业度 · 长视频沉淀 | [B站个人主页](https://space.bilibili.com/1744093202?spm_id_from=333.337.0.0) |
-| 公众号 | 私域 · 变现终点 | ![image-20260927200100397](C:\Users\Mike\AppData\Roaming\Typora\typora-user-images\image-20260927200100397.png) |
+| 公众号 | 私域 · 变现终点 | ![image-20260927200100397](https://github.com/user-attachments/assets/d7cffd80-19cf-4cd9-a319-ad808ac1dbd5) |
 
 ---
 
